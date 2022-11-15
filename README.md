@@ -1,5 +1,5 @@
 # Movie-Search-App
 
-Here is my movie browsing mobile application made in react native and using the movie database API
+A mobile application to search for movies and details about that selected movie using the Movie Database API.
 
 <img src="https://github.com/erizilla/Movie-Search-App/blob/main/screensMovieBrowser.jpg"/>
